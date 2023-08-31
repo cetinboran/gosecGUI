@@ -15,6 +15,8 @@ namespace gosecGUI
         public gosec()
         {
             InitializeComponent();
+
+            this.FormClosed += new FormClosedEventHandler(gosec_FormClosed);
         }
 
         private void registerFormBtn_Click(object sender, EventArgs e)
@@ -45,6 +47,12 @@ namespace gosecGUI
         {
             deleteuser DeleteUserForm = new deleteuser();
             DeleteUserForm.Show();
+        }
+
+        // Programın kapandığından emin olmak için ekledim.
+        private void gosec_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
