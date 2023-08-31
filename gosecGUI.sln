@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gosecGUI", "gosecGUI\gosecGUI.csproj", "{FE8D0F4F-D0FC-4BA0-9630-99D9FDA9E881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8D0F4F-D0FC-4BA0-9630-99D9FDA9E881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8D0F4F-D0FC-4BA0-9630-99D9FDA9E881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8D0F4F-D0FC-4BA0-9630-99D9FDA9E881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8D0F4F-D0FC-4BA0-9630-99D9FDA9E881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5F77C2-15A1-4CE9-86BF-05E54E22AD6F}
+	EndGlobalSection
+EndGlobal
