@@ -18,5 +18,3 @@ GoSec GUI is tailored for individuals seeking secure and effortless password man
 
 - GitHub: [cetinboran](https://github.com/cetinboran)
 
-
-Experience an intuitive and user-friendly interface that elevates your password management. Secure your passwords and optimize your tasks with GoSec GUI!
